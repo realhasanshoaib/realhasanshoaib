@@ -15,7 +15,6 @@ I'm Hasan, co-founder and CTO of [Q9 Labs](https://q9labs.ai). AI is smart enoug
 - **[Terminal](https://terminal.q9labs.ai)**: An airport help desk that speaks every language and never takes a break
 - **[Murmur](https://murmur.q9labs.ai)**: Live translation for talks. The speaker talks, the room reads along in its own language
 - **[Flow](https://q9labs.ai/products/flow)**: Forms you talk to. You speak, the fields fill in, and you check it before it's sent
-- **[Edli](https://q9labs.ai/products/edli)**: A school operating system with AI built in, for leaders, teachers, students, and parents
 
 ### Apps
 
