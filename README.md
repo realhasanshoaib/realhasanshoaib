@@ -15,6 +15,12 @@ I'm Hasan, co-founder and CTO of [Q9 Labs](https://q9labs.ai). AI is smart enoug
 - **[Flow](https://q9labs.ai/products/flow)**: Forms you talk to. You speak, the fields fill in, and you check it before it's sent
 - **[Edli](https://q9labs.ai/products/edli)**: A school operating system with AI built in, for leaders, teachers, students, and parents
 
+### Apps
+
+- **[Saypad](https://saypad.q9labs.ai)**: Talk, and it types at your cursor. On Mac and Android
+- **[Spend](https://play.google.com/store/apps/details?id=com.q9labs.ai.spend)**: Say what you spent and it keeps the budget
+- **[Diet Bite Life](https://apps.apple.com/us/app/diet-bite-life/id6779639849)**: Meal plans and nutrition logging for iPhone
+
 ### Open source
 
 - **[Chalk](https://github.com/Q9Labs/chalk)**: Real-time collaboration SDK for calls and whiteboards, on React and React Native
@@ -31,7 +37,15 @@ I'm Hasan, co-founder and CTO of [Q9 Labs](https://q9labs.ai). AI is smart enoug
 - **[rr](https://rr.hasanshoaib.com)**: Builds one self-contained HTML document from small components, with zero dependencies
 - **[TodoBar](https://github.com/realhasanshoaib/todobar)**: A menu bar queue for tasks and agent prompts
 
-All three CLIs install from my [Homebrew tap](https://github.com/realhasanshoaib/homebrew-tap).
+Skillbox, Complain, and rr install from my [Homebrew tap](https://github.com/realhasanshoaib/homebrew-tap).
+
+### Skills
+
+- **[Mobile Skills](https://github.com/realhasanshoaib/mobile-skills)**: Playbooks that get apps through App Store and Google Play review, tested on real rejections
+- **[UI Vocabulary](https://ui-vocab.hasanshoaib.com)**: 133 design terms with ready prompts, so you can tell an agent exactly what you mean
+- **[Spec-craft](https://github.com/realhasanshoaib/agents-home/tree/main/skills/spec-craft)**: Turns a rough idea into a spec an agent can actually build
+- **[Material UI](https://github.com/realhasanshoaib/material-ui-skill)**: Native Jetpack Compose Material 3 design and review for Android
+- **[Refactor contract](https://github.com/realhasanshoaib/refactor-contract-skill)** and **[Refactor vocabulary](https://github.com/realhasanshoaib/refactor-vocabulary-skill)**: Plan big refactors in waves, and talk to agents about them precisely
 
 ## Small fixes for things that annoyed me
 
@@ -39,3 +53,13 @@ All three CLIs install from my [Homebrew tap](https://github.com/realhasanshoaib
 - **[FingerPain](https://github.com/realhasanshoaib/fingerpain)**: Counts your keystrokes without recording what you type
 - **[Super Alarm](https://hasanshoaib.com/projects/super-alarm)**: An alarm you can't dismiss while half asleep
 - **[Bolo](https://hasanshoaib.com/projects/bolo)**: A YouTube player with synced translation in two languages
+- **[Sip](https://play.google.com/store/apps/details?id=com.hasanshoaib.sip)**: Water tracking that stays on your phone
+- **[Jiffy](https://hasanshoaib.com/projects/jiffy)**: Floating notes on your Mac, stored locally
+- **[Stash](https://hasanshoaib.com/projects/stash)**: Read-later across browsers, with search and sync (in store review)
+- **[WhatsApp Privacy Blur](https://github.com/realhasanshoaib/whatsapp-privacy-blur)**: Blurs the WhatsApp chat list on your Mac so people behind you can't read it
+
+## Thinking about
+
+- Version control that remembers whether each version passed its tests, security checks, and performance budgets
+- Reading with AI: books that come with explanations and visuals made for you
+- Models that keep learning from every customer they talk to
