@@ -1,3 +1,5 @@
+<img src="./banner.png" alt="Hasan Shoaib, co-founder and CTO of Q9 Labs. Easy stuff is boring." width="100%">
+
 I'm Hasan, co-founder and CTO of [Q9 Labs](https://q9labs.ai). AI is smart enough now. Most of it is just unemployed, so we give it jobs: answering calls, interviewing applicants, taking orders. I started programming at 13 and I still like the hard problems best.
 
 [X](https://x.com/realhasanshoaib) · [LinkedIn](https://linkedin.com/in/hasanshoaib) · [hasanshoaib.com](https://hasanshoaib.com)
